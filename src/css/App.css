@@ -1,0 +1,17 @@
+.img-size{
+    width: 300px;
+}
+.rapper-card{
+    border: solid 2px salmon;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-flow: column;
+    width: 300px;
+  
+}
+
+/* #root{
+    border: solid 5px black;
+    display: flex;
+} */
+
